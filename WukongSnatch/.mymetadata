@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WukongSnatch"
+  id="myeclipse.1360163264974"
+  context-root="/WukongSnatch"
+  j2ee-spec="5.0"
+  archive="WukongSnatch.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
